@@ -1,6 +1,6 @@
 name: Mastintin, nuevo en web
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
 plugins: 
 - jekyll-sitemap 
