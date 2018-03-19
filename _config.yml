@@ -1,3 +1,4 @@
 name: Mastintin, nuevo en web
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins: - jekyll-sitemap 
