@@ -2,5 +2,4 @@ name: Mastintin, nuevo en web
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-tactile
-plugins: 
-- jekyll-sitemap 
+plugins: - jekyll-sitemap 
